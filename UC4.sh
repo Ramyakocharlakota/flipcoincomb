@@ -74,3 +74,4 @@ echo $n | awk '{ per=$n/50*100; printf"%0.2f\n",per }'
 echo $p | awk '{ per=$p/50*100; printf"%0.2f\n",per }'
 echo $q | awk '{ per=$q/50*100; printf"%0.2f\n",per }'
 echo $r | awk '{ per=$r/50*100; printf"%0.2f\n",per }'
+echo "updating this file to  see the version control"
